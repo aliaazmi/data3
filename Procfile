@@ -1,0 +1,1 @@
+web: gunicorn Beacon_Statistic:server
